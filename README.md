@@ -6,7 +6,7 @@ Cyber Security student in PNU and IOS Developer
 - Figma
 - Firebase
 - Github
- <p align="center">
+ <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,figma,firebase,git" />
   </a>
@@ -16,6 +16,10 @@ Cyber Security student in PNU and IOS Developer
 - Swift
 - Java
 - Python
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,java,python" />
+  </a>
+</p>
 
 
