@@ -22,4 +22,9 @@ Cyber Security student in PNU and IOS Developer
   </a>
 </p>
 
-
+## Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/leen-almejarri/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
