@@ -1,5 +1,6 @@
 # Welcome 👋🏻
-Cyber Security student in PNU and IOS Developer
+I am currently a **Cyber Security student** at **PNU** (Prince Norah University), where I am gaining in-depth knowledge about the latest security protocols, encryption techniques, and ethical hacking practices. Alongside my studies, I am also passionate about mobile development, specifically **iOS development**. Over the years, I’ve worked on several projects to build robust and user-friendly iOS applications, gaining hands-on experience with **Swift**, **Xcode**, and the Apple development ecosystem. It would be amazing to merge my expertise in **Cyber Security** with mobile app development to create **secure**, high-performance apps for the future.
+
 
 ## 💻 Technologies Used:
 - Xcode
