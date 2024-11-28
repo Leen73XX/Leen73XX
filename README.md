@@ -4,11 +4,11 @@ Cyber Security student in PNU and IOS Developer
 ## 💻 Technologies Used:
 - Xcode
 - Figma
-- <p align="center">
-  <a href="[https://skillicons.dev](https://firebase.google.com)">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg)" />
+- Firebase <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-</p> Firebase 
+</p>
 - Github
 
 ## 🚀 Programming Languages:
