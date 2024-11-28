@@ -7,9 +7,18 @@ I am currently a **Cyber Security student** at **PNU**. Alongside my studies, I 
 - Figma
 - Firebase
 - Github
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,figma,firebase,git" />
+<p align="left">
+  <a href="https://developer.apple.com/xcode/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=apple" alt="Xcode" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="GitHub" />
   </a>
 </p>
 
