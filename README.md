@@ -27,10 +27,17 @@ I am currently a **Cyber Security student** at **PNU**. Alongside my studies, I 
 - Java
 - Python
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,java,python" />
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
 </p>
+
 
 ## Connect with me:
 
